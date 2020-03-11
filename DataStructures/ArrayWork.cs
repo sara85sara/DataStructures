@@ -6,7 +6,7 @@ namespace DataStructures
 {
     public class ArrayWork : IOperations
     {
-
+        //Comments lines
         public void Create()
         {
             int[] intArr = { 5, 7, 8, 9, 10 };
