@@ -23,6 +23,7 @@ namespace DataStructures
             stk.Push(100);
             stk.Push(10);
             stk.Push(1);
+           
 
         }
         public void ShowStackElements()
